@@ -1,4 +1,4 @@
-# Multi-Subject AI Chatbot 🤖
+# Multi-Subject AI Chatbot 
 
 A modular AI chatbot that automatically detects the subject of a user’s question and retrieves verified information from online sources, with optional transformer-based answer generation. Designed as a professional portfolio project and developed using Google Colab.
 
